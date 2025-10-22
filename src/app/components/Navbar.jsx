@@ -61,9 +61,6 @@ const Navbar = () => {
             <Link href="/aichat" className="block text-white px-3 py-2 rounded-md text-base font-medium">ChatBot</Link>
             <Link href="/aiphone" className="block text-white px-3 py-2 rounded-md text-base font-medium">AI Phone</Link>
           </div>
-          <div className="px-5 pb-3">
-            <Image src="/rise.png" alt="Sponsored by RISE" width={120} height={60} />
-          </div>
         </div>
       )}
     </nav>
